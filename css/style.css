@@ -605,7 +605,6 @@ header .pic img {
     background-color: var(--primary-color);
     width: 70px;
     height: 70px;
-    min-width: 200px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -619,15 +618,14 @@ header .pic img {
     margin: 10px;
 }
 
-.contact-us .inner .icon {
-    background-color: var(--primary-color);
-    width: 70px;
-    height: 70px;
-    min-width: 70px; 
+.contact-us .join-us .icon {
+    width: 50px;
+    height: 50px;
     display: flex;
     align-items: center;
     justify-content: center;
     border-radius: 50%;
+    background-color: #0B0E13;
 }
 
 .contact-us .part-two .contact-form {
